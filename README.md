@@ -2,7 +2,7 @@
 
 ### Quem sou eu? 👨‍🎓
 
-Eae Dev, eu me chamo Victor, tenho ensino técnico em Desenvolvimento de Sistemas na ETEC Cidade Tiradentes e atualmente estou cursando Análise e Desenvolvimento de Sistemas na SPTech. Possuo conhecimentos em Javascript, React.js, React Native, MySQL, Node.js, Typescript, Styled Components e Tailwindcss. Fique a vontade a explora-lo o quanto quiserem. Qualquer dúvida, entre em contato.
+Eae Dev, eu me chamo Victor, tenho ensino técnico em Desenvolvimento de Sistemas na ETEC Cidade Tiradentes e atualmente estou cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na SPTech. Possuo conhecimentos em Javascript, React.js, React Native, MySQL, Node.js, Typescript, Styled Components e Tailwindcss. Fique a vontade a explora-lo o quanto quiserem. Qualquer dúvida, entre em contato.
 
 <br/> 
 <div align="center">
