@@ -25,4 +25,4 @@ Eae Dev, eu me chamo Victor, tenho ensino técnico em Desenvolvimento de Sistema
  ## Contatos
 
 [![Gmail Badge](https://img.shields.io/badge/-victor.msantos@sptech.school-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:victor.msantos@sptech.school)](mailto:victor.27cm.santos@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Victor_Hugo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-hugo-carvalho-moreira-dos-santos-54b9ab1ba/)](https://www.linkedin.com/in/victor-hugo-carvalho-moreira-dos-santos-54b9ab1ba/)
+[![Linkedin Badge](https://img.shields.io/badge/-Victor_Hugo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-hugo-carvalho-moreira-dos-santos/)](https://www.linkedin.com/in/victor-hugo-carvalho-moreira-dos-santos/)
